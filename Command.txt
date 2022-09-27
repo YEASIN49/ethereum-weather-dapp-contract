@@ -1,0 +1,1 @@
+deploy connract to networrk : npx hardhat run scripts/deploy.js --network goerli
